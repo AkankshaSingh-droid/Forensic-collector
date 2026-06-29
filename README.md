@@ -1,4 +1,4 @@
-https://github.com/AkankshaSingh-droid/Forensic-collector/blob/5809bed93b64b85eda46b912049d27fbf2bbbe9b/screenshot.jpeg                                                                                                                                                                                                                                                                                                               # Android Forensic Collector
+https://github.com/AkankshaSingh-droid/Forensic-collector/blob/5809bed93b64b85eda46b912049d27fbf2bbbe9b/screenshot.jpeg                                                                                                                                                                                                                                                                                                                             # Android Forensic Collector
 
 A read-only forensic data collection tool for Android devices (and Windows PCs) using ADB.
 
