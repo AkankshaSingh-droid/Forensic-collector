@@ -31,8 +31,8 @@ A read-only forensic data collection tool for Android devices (and Windows PCs) 
 ## Installation
 
 ```bash
-git clone https://github.com/AkankshaSingh-droid/android-forensic-collector.git
-cd android-forensic-collector
+git clone https://github.com/AkankshaSingh-droid/Forensic-collector.git
+cd Forensic-collector
 ```
 
 No pip install needed — uses Python standard library only.
