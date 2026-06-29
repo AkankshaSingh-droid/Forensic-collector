@@ -21,7 +21,7 @@ A read-only forensic data collection tool for Android devices (and Windows PCs) 
 - 📦 ZIP evidence export
 - 📂 Open reports and case folders directly
 - 🔎 Search previously collected cases
-https://github.com/AkankshaSingh-droid/Forensic-collector/blob/5809bed93b64b85eda46b912049d27fbf2bbbe9b/screenshot.jpeg       
+     
 ## Features
 
 - Read-only ADB collection — does not modify the device
