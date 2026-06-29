@@ -1,11 +1,27 @@
-https://github.com/AkankshaSingh-droid/Forensic-collector/blob/5809bed93b64b85eda46b912049d27fbf2bbbe9b/screenshot.jpeg                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                             
 # Android Forensic Collector
 A read-only forensic data collection tool for Android devices (and Windows PCs) using ADB.
 
 > **Legal Notice:** Use only on devices you own or have explicit written authorization to examine.
-
 ---
+# 📸 Application Screenshot
 
+![Android Forensic Collector GUI](screenshot.jpeg)
+
+**GUI Highlights**
+
+- 📱 Android & Windows collection modes
+- 🗂️ Case ID, Examiner, Evidence ID & Device Owner management
+- 🔍 Standard Scan & Media Scan
+- 📸 Screenshot capture support
+- 📞 SMS, Call Logs & Contacts collection (if permitted)
+- 🖼️ Media recovery attempt
+- 📄 HTML & PDF report generation
+- 🔐 SHA-256 hash manifest generation
+- 📦 ZIP evidence export
+- 📂 Open reports and case folders directly
+- 🔎 Search previously collected cases
+https://github.com/AkankshaSingh-droid/Forensic-collector/blob/5809bed93b64b85eda46b912049d27fbf2bbbe9b/screenshot.jpeg       
 ## Features
 
 - Read-only ADB collection — does not modify the device
